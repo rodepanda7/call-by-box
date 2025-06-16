@@ -1,0 +1,27 @@
+# Agda auto-generated interface files
+*.agdai
+
+# Agda-generated HTML files (if you generate docs)
+*.html
+
+# Agda-generated literate files
+*.lagda.md
+
+# Emacs backup files (if you use Emacs)
+*~
+.\#*
+
+# Vim swap files (if you use Vim)
+*.swp
+*.swo
+
+# VSCode workspace/settings files (optional, if you want to exclude)
+.vscode/
+
+# Compiled binaries or artifacts (if any)
+*.o
+*.hi
+
+# Miscellaneous OS files
+.DS_Store
+Thumbs.db
