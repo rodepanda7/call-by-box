@@ -41,3 +41,5 @@ The project formalises the call-by-box lambda calculus (λ_b) and includes embed
 
 Supervisor: dr. N.M. van der Weide \
 Second assessor: dr. E.G.M. Hubbers
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15743863.svg)](https://doi.org/10.5281/zenodo.15743863)
